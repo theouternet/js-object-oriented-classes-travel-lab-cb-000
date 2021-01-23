@@ -15,8 +15,8 @@ class Driver {
     this.date = new Date(date);
   }
   
-  startDate() {
-    return date
+  yearsExperienceFromBeginningOf(year) {
+    return (date - year)
   }
   
 }
