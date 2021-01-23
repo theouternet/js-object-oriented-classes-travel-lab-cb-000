@@ -10,12 +10,14 @@
     ];
     
 class Driver {
-  constructor(name, day) {
+  constructor(name, date) {
     this.name = name;
-    this.day = day;
+    this.date = date;
   }
   
-  startDate ()
+  startDate() {
+    
+  }
   
 }
 
