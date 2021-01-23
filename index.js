@@ -10,7 +10,9 @@
     ];
     
 class Driver {
-  constructor
+  constructor(name, day) {
+    
+  }
 }
 
 class Route {
